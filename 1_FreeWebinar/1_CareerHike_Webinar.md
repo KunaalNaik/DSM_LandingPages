@@ -18,25 +18,24 @@
 #### **Social Proof Section**
 | **Headline:** | "Join 5000+ Ambitious Professionals Who Transformed Their Careers" |
 |---------------|-------------------------------------------------------------------------------------------------------------------|
-| **Visuals:** | Logos of top companies where our attendees have secured high-value positions |
-| **Text:** | "Real Success Stories: Achieving Career Breakthroughs in 30-90 Days" |
+| **Visuals:** | Logos of top companies where I have taught (Kunaal to provide) |
+| **Text:** | "Real Success Stories: Achieving Career Hike in 30-90 Days" |
 | **CTA Button:** | "Reserve Your Spot in This FREE Masterclass" |
 
----
 
-#### **What You Will Learn Section**
-| **Headline:** | "Discover Life-Changing Strategies in This 90-Min Live Masterclass" |
-|---------------|-------------------------------------------------------------------------------------------------------------------|
-| **Bullet Points:** | <br> 1. Master a Winning Mindset to Command Respect <br> 2. Tailor Your Job Search Pathway for Maximum Impact <br> 3. Identify and Pursue the Perfect Career Move <br> 4. Showcase Your Unique Value on Your Resume and LinkedIn <br> 5. Triple Your Interview Opportunities with Proven Techniques <br> 6. Win Over Employers and Secure Your Ideal Offer |
+### **What You Will Learn Section**
+
+| **Headline:** | "Harness AI and Proven Processes to Simplify Your Job Search in This 90-Min Live Masterclass" |
+|---------------|----------------------------------------------------------------------------------------------------------------------------|
+| **Bullet Points:** | <br> 1. **Use Tools to Track Your Progress:** Leverage cutting-edge tools to monitor and optimize your job search journey. <br> 2. **Utilize AI to Decode Job Descriptions:** Easily interpret complex JDs and align your application to match exactly what employers are looking for. <br> 3. **Discover Hidden Job Search Techniques:** Uncover innovative strategies that most job seekers overlook. <br> 4. **Find Hidden Companies That Are Hiring:** Use AI to identify opportunities at companies not widely advertised. <br> 5. **Answer Unknown Questions with Confidence:** Prepare for any interview question with AI-powered insights. <br> 6. **Master the Complete Job Search Process:** From start to finish, use AI and proven methods to secure the job you want. |
 | **CTA Button:** | "Join the Masterclass – Limited Spots Available!" |
 
----
 
 #### **Success Stories Section**
 | **Headline:** | "Real People, Real Results: Dreams Realized in 30-90 Days" |
 |---------------|-------------------------------------------------------------------------------------------------------------------|
 | **Subheadline:** | "Extraordinary Journeys of Success Against All Odds" |
-| **Testimonials:** | <br> - Siddharth Rathod: "Secured a Job Offer with Over 100% Salary Hike!" <br> - Sagar Bugdani: "Landed My Dream Job in Facilities Management" <br> - Rahul Sharma: "Negotiated Offers with Multiple Top Employers" |
+| **Testimonials:** | <br> - Ankit: "Secured a Generative AI Job Offer with Over 100% Salary Hike!" <br> - Vishruth: "Landed My Dream Job in Generative AI after a Career Break" <br> - Aditya: "Got a Remote Job as a Data Scientist under 30 Days" |
 | **CTA Button:** | "Join These Success Stories – Register for FREE Now!" |
 
 ---
